@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculaDias">Calcula el número de días desde tu fecha de nacimiento</string>
+    <string name="fecha_de_nacimiento">FECHA DE NACIMIENTO</string>
+    <string name="naciste">Naciste...</string>
+    <string name="fechaActual">Hoy es %1$s</string>
+</resources>
